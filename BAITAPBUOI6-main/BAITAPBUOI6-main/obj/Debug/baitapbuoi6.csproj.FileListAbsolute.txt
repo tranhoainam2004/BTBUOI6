@@ -1,0 +1,15 @@
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\bin\Debug\Lab04_01.exe.config
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\bin\Debug\Lab04_01.exe
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\bin\Debug\Lab04_01.pdb
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\bin\Debug\EntityFramework.dll
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\bin\Debug\EntityFramework.xml
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\baitapbuoi6.csproj.AssemblyReference.cache
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\Lab04_01.Form1.resources
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\Lab04_01.Properties.Resources.resources
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\baitapbuoi6.csproj.GenerateResource.cache
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\baitapbuoi6.csproj.CoreCompileInputs.cache
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\baitapbu.A1515B25.Up2Date
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\Lab04_01.exe
+C:\Users\giang\Downloads\baitapbuoi6\baitapbuoi6\baitapbuoi6\obj\Debug\Lab04_01.pdb
